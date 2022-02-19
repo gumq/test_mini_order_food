@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\3c525f2223e6561a2d6ebf892cd40dede9872afb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_f7746e1793c170889d0280458045d6d31e1cfd7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\a85bc782f582ff3e74c7cfc8c60fcac9cb4e34ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_daa1428cb700b1cb2ec51cbe932cc4b861559e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\5f111bf08cb0f925d14300fc48eca7927ca63437\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_9f436342c1b5cac3f6dbaa4a33e0c5b312476b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_18921db02c2869d5d0ab5d380463cef49b5dbef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\f1b3eb5042719c9c03931e3ee3acd52dfbe10fdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_9bfaa19d7bef8fb9bc2010d5a89aaae7aa887273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\1ecdd9a7aa67d4197535b35b90297252879d68ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_45ef0d16eb8560e144ad6677977360e1ee938dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\b14d343f886609b457c086167e7d6994b2e6eac7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_90cc6f67e22325d1ef0ccca1025a6084d1f4050d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\1d47dd281f2f2b071d125e9a8820ece2bad9bb50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_0e2c4e69c6fec799086e8455a3ded9958a4db63c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_55f44be36cbe25de26af84097ab4733a6e50c82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\3a9536e2763f6bece28344646b38dbb1c9a16e71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_c4f0cf272106d9b056e5f62c7fef9bfc68a10dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\1a6f1591ef227f0b8418135c45beba5f8cc2a5c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_1a03d452a3c9ff5aed20bf911bf94b5a851ad4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_a791b4f6f9f491bcc80cf18fa3f9ca52558da96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\069e7c7a18e104f7b95920539002a868a9063183\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_74d341a02b6dfb81e450235e2ac3c7e931b1929f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\034afb6efa1707730a014d40a369551d1845e618\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\classes_3e3c3e248e6ab8fdb33402bd1b14ed5ac68ff29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\abhis\AndroidStudioProjects\foodOrderApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f51a9d4b4bd6fef105123d4c7f58bc7b6496a2a9.jar" />
+    </item>
+
+</items>

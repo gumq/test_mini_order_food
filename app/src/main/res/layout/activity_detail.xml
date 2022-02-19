@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#F4F4F4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/detail_item_name"
+        android:text="Food Name"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:background="#A3A5B3"
+        android:textColorHint="@color/colorPrimary"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"/>
+
+    <ImageView
+        android:id="@+id/detail_item_img"
+        android:layout_width="396dp"
+        android:layout_height="277dp"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:id="@+id/detail_item_description"
+        android:layout_width="399dp"
+        android:layout_height="51dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimary"
+        android:text="Hình ảnh món ăn"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/detail_item_ord_number"
+        android:layout_width="95dp"
+        android:layout_height="86dp"
+        android:ems="3"
+        android:textColorHint="@color/colorPrimary"
+        android:hint="Nhập số lượng"
+        android:gravity="center_horizontal"
+        android:inputType="number" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/detail_order"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="#7DC628"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:text="Đặt món" />
+
+        <Space
+            android:layout_width="30dp"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/detail_reset"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#F37267"
+            android:textSize="25sp"
+            android:orientation="horizontal"
+            android:text="Hủy" />
+    </LinearLayout>
+</LinearLayout>

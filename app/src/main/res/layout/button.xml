@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_gravity="left"
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="25sp"
+        android:background="#6AED8F"
+        android:textColor="#FB4872"
+        android:text="Đặt món" />
+
+    <Button
+        android:layout_gravity="right"
+        android:orientation="horizontal"
+        android:id="@+id/button"
+        android:textSize="25sp"
+        android:layout_width="150dp"
+        android:background="#EF849E"
+        android:textColor="@color/colorPrimary"
+        android:layout_height="wrap_content"
+        android:text="Hủy" />
+
+</LinearLayout>
